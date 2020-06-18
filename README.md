@@ -2,6 +2,16 @@
     <img  width="430px" src="https://ik.imagekit.io/vrynjtmy4n/launchBase-logo_NnKJHVkJb.png">
 </h1>
 
+<h4 align="center">
+    :rocket: LaunchBase 5.0
+</h4>
+
+<p>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-rafael-valarini-r-ceschini-6899831a6/">
+        <img alt="Made by João Rafael" src="">
+    </a>
+</p>
+
 # 📍 Indice 
 
 - [Sobre](#-sobre)
