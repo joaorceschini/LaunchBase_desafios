@@ -1,6 +1,6 @@
-<h1 align="center">
-    <img  style="width: 10%; margin: 20px auto" src="https://ik.imagekit.io/vrynjtmy4n/launchBase-logo_NnKJHVkJb.png">
-<h1>
+<h1 align="center" style="width: 10%; margin: 20px auto" >
+    <img src="https://ik.imagekit.io/vrynjtmy4n/launchBase-logo_NnKJHVkJb.png">
+</h1>
 
 # 📍 Indice 
 
