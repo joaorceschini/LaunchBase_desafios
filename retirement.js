@@ -50,7 +50,7 @@ if (person.gender == "M") {
 
 } else if (person.gender == "") {
 
-    console.log("Você não definiu seu sexo, para calcularmos se você poderá se aposentar precisamos dela.\nVocê pode defini-lo como M (masculino) ou F (feminino)")
+    console.log("Você não definiu seu sexo, para calcularmos se você poderá se aposentar precisamos dessa informação.\nVocê pode defini-lo como M (masculino) ou F (feminino)")
 
 } else {
 
