@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img  style="width: 10%; margin: 20px auto" src="https://ik.imagekit.io/vrynjtmy4n/launchBase-logo_NnKJHVkJb.png">
+    <img  style="width: 100px; height: 100px; margin: 20px auto" src="https://ik.imagekit.io/vrynjtmy4n/launchBase-logo_NnKJHVkJb.png">
 </h1>
 
 # 📍 Indice 
