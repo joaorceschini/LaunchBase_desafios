@@ -2,8 +2,6 @@
     <img src="https://ik.imagekit.io/vrynjtmy4n/launchBase-logo_NnKJHVkJb.png">
 <h1>
 
----
-
 # 📍 Indice 
 
 - [Sobre](#-sobre)
@@ -14,7 +12,6 @@
 
 Nesse repositório estão todos os desafios realizados durante o **Bootcamp LaunchBase** da Rocketseat com o objetivo de praticar o que foi ensinado.
 
----
 
 ## 💻 Tecnologias utilizadas
 
@@ -22,7 +19,6 @@ O projeto foi desenvolvido com as seguintes tecnologias
 
 - JS ( [JavaScript](https://www.javascript.com/) )
 
----
 
 ## 📂 Como baixar o projeto
 
@@ -35,6 +31,6 @@ O projeto foi desenvolvido com as seguintes tecnologias
 
 ---
 
-<footer align="center">
+<h4 align="center">
     Desenvolvido por João Rafael 🧡
-</footer>
+</h4>
