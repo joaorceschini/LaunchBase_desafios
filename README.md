@@ -6,7 +6,7 @@
     :rocket: LaunchBase 5.0
 </h4>
 
-<p>
+<p align="center">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-rafael-valarini-r-ceschini-6899831a6/">
         <img alt="Made by João Rafael" src="https://img.shields.io/badge/made%20by-Jo%C3%A3o%20Rafael-blue">
     </a>
