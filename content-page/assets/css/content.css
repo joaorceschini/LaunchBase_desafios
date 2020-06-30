@@ -220,12 +220,14 @@ main {
   height: 100%;
   position: fixed;
   top: 0;
+  left: 0;
   opacity: 0;
   visibility: hidden;
+  transition: opacity .2s ease-in-out;
 }
 
 .modal {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgb(255, 255, 255);
   width: 90%;
   height: 90%;
   margin: 5vh auto;
@@ -240,11 +242,25 @@ main {
   cursor: pointer;
 }
 
+.modal .maximize-modal {
+  color: black;
+  position: absolute;
+  right: 38px;
+  top: 8px;
+  cursor: pointer;
+}
+
 /* MODAL (active) */
 
 .modal-overlay.active {
   opacity: 1;
   visibility: visible;
+}
+
+.modal.maximize {
+  margin: 0;
+  width: 100%;
+  height: 100%;
 }
 
 iframe {
