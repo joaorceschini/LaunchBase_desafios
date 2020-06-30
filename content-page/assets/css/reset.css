@@ -1,0 +1,73 @@
+@import 'content.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body, div, article, aside, footer, header, main, nav, section, ul, ol, li, button, figure {
+  display: flex;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  /* background-color: rgba(112, 87, 193, 0.88); */
+  background-color: rgb(247, 244, 250);
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  flex-direction: column;
+  height: 100%;
+}
+
+header {
+  background-image: linear-gradient(to bottom, #000000, #040303, #070507, #0a080a, #0c0b0e);
+  height: 75px;
+  padding: 0 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header .logo {
+  display: flex;
+  justify-content: space-between;
+}
+
+header .logo h1 {
+  margin-left: 10px;
+}
+
+header ul a {
+  text-decoration: none;
+  margin: 0 30px;
+  color: rgba(255, 255, 255, 0.85);
+  transition: color .3s ease-in-out, transform .3s ease-in-out;
+}
+
+header ul a:hover {
+  color: white;
+  transform: translateY(-2px)
+}
+
+footer {
+  margin: 0;
+  height: 8%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to top, #000000, #080506, #0e090d, #120e13, #141218);
+}
+
+footer img {
+  width: 40px;
+  margin: 0 20px;
+  box-sizing: border-box;
+  transition: transform .2s ease-in-out;
+}
+
+footer img:hover {
+  transform: scale(1.1);
+}
