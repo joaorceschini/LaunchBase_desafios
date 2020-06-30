@@ -28,6 +28,8 @@ Nesse repositório estão todos os desafios realizados durante o **Bootcamp Laun
 O projeto foi desenvolvido com as seguintes tecnologias
 
 - JS ( [JavaScript](https://www.javascript.com/) )
+- HTML ( [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/) )
+- CSS ( [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/) )
 
 
 ## 📂 Como baixar o projeto
